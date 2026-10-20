@@ -1,0 +1,155 @@
+{
+  "brand": {
+    "name": "Yến Sào Huvatra",
+    "shortName": "Huvatra",
+    "slogan": "Tinh Hoa Yến Sào Cam Ranh - Khánh Hòa | Thượng Phẩm Dưỡng Nhan & Sức Khỏe Vàng",
+    "address": "164 Nguyễn Công Trứ, Bắc Cam Ranh, Khánh Hòa, Việt Nam",
+    "phone": "0974002626",
+    "hotline": "0974002626",
+    "zalo": "0974002626",
+    "mapUrl": "https://maps.app.goo.gl/LbaniVR17jKPBvD27",
+    "coordinates": {
+      "lat": 11.9876916,
+      "lng": 109.1874971
+    },
+    "website": "https://huvatra.life",
+    "domain": "huvatra.life",
+    "openingHours": "07:30 - 21:30 hàng ngày (kể cả Thứ Bảy, Chủ Nhật và ngày Lễ)",
+    "description": "Yến Sào Huvatra là thương hiệu yến sào cao cấp uy tín hàng đầu tại Bắc Cam Ranh, tỉnh Khánh Hòa. Cơ sở sở hữu showroom bề thế, hiện đại tại số 164 Nguyễn Công Trứ, trực tiếp khai thác và chế biến tổ yến từ hệ thống nhà yến chuẩn sinh thái Cam Ranh - Khánh Hòa. Cam kết 100% nguyên chất, tỉ mỉ thủ công, không tẩy trắng, không độn phụ gia, giữ trọn 18 acid amin và 31 vi lượng tự nhiên."
+  },
+  "commitments": [
+    "100% Tổ yến nguyên chất nguồn gốc Khánh Hòa - Cam Ranh",
+    "Quy trình rút lông và làm sạch hoàn toàn thủ công, dùng nước tinh khiết tiệt trùng",
+    "Không độn mủ trôm, không tẩm đường, không dùng hóa chất tẩy trắng",
+    "Sấy lạnh vô trùng giữ trọn 100% vi chất dinh dưỡng và hương vị tự nhiên",
+    "Hoàn tiền 200% nếu phát hiện yến giả hoặc kém chất lượng",
+    "Giao hàng nhanh toàn quốc, đóng gói hộp quà sang trọng chống va đập"
+  ],
+  "products": [
+    {
+      "id": "tinh-che-vip",
+      "name": "Yến Tinh Chế Thượng Hạng VIP 1",
+      "category": "Yến Tinh Chế",
+      "price": 3800000,
+      "originalPrice": 4200000,
+      "weight": "100g",
+      "rating": 5.0,
+      "reviews": 128,
+      "badge": "Bán Chạy Nhất",
+      "description": "Tổ yến già dày sợi, được thợ lành nghề nhặt lông thủ công sạch 99.9%, tạo hình cánh cung sang trọng, sợi yến nở gấp 4-5 lần khi chưng.",
+      "includes": "Tặng kèm táo đỏ Tân Cương, đường phèn Quảng Ngãi cao cấp, hộp quà lót nhung sang trọng."
+    },
+    {
+      "id": "rut-long-nguyen-to",
+      "name": "Yến Rút Lông Khô Nguyên Tổ Xuất Khẩu",
+      "category": "Yến Rút Lông",
+      "price": 4500000,
+      "originalPrice": 5000000,
+      "weight": "100g",
+      "rating": 5.0,
+      "reviews": 96,
+      "badge": "Thượng Hạng",
+      "description": "Tuyển chọn từ những tổ yến loại A hình chiếc hài đẹp nhất, phun ẩm nhẹ và rút lông tỉ mỉ giữ nguyên hình dáng tổ sơ khai và chân tổ dày giòn.",
+      "includes": "Tặng kèm thố sứ chưng yến cao cấp, táo đỏ, kỷ tử, hạt sen, đường phèn kết tinh tự nhiên."
+    },
+    {
+      "id": "yen-tho-nguyen-to",
+      "name": "Yến Thô Nguyên Tổ Giàu Vi Chất Cam Ranh",
+      "category": "Yến Thô",
+      "price": 2900000,
+      "originalPrice": 3300000,
+      "weight": "100g",
+      "rating": 4.9,
+      "reviews": 84,
+      "badge": "Nguyên Bản",
+      "description": "Tổ yến còn nguyên lông, già tổ, ít tạp chất, mùi tanh nồng đặc trưng của yến biển tự nhiên Khánh Hòa. Thích hợp cho người sành ăn thích tự tay sơ chế.",
+      "includes": "Tặng nhíp nhặt lông chuyên dụng thép không gỉ, đường phèn, hướng dẫn sơ chế chi tiết."
+    },
+    {
+      "id": "yen-chung-saffron-dongtrung",
+      "name": "Set 6 Hũ Yến Chưng Tươi Saffron & Đông Trùng",
+      "category": "Yến Chưng Sẵn",
+      "price": 650000,
+      "originalPrice": 750000,
+      "weight": "6 hũ x 70ml (Hàm lượng yến tươi 30%)",
+      "rating": 5.0,
+      "reviews": 215,
+      "badge": "Tiện Lợi VIP",
+      "description": "Chưng tươi theo đơn hàng trong ngày, kết hợp nhuỵ hoa nghệ tây Saffron Iran cao cấp và đông trùng hạ thảo nguyên con, đường phèn thanh nhẹ.",
+      "includes": "Đóng hộp quà kèm thìa vàng sang trọng, bảo quản lạnh dùng trong 15 ngày."
+    },
+    {
+      "id": "yen-chung-hat-sen-tao-do",
+      "name": "Set 6 Hũ Yến Chưng Táo Đỏ Hạt Sen Kỷ Tử",
+      "category": "Yến Chưng Sẵn",
+      "price": 550000,
+      "originalPrice": 620000,
+      "weight": "6 hũ x 70ml (Hàm lượng yến tươi 30%)",
+      "rating": 4.9,
+      "reviews": 167,
+      "badge": "Mát Bổ An Thần",
+      "description": "Vị ngọt thanh tự nhiên từ táo đỏ và hạt sen Huế bùi béo kết hợp sợi yến thật giòn dai, bổ phế, mát gan, giúp ngủ sâu giấc.",
+      "includes": "Giao tươi hỏa tốc khu vực Cam Ranh - Nha Trang - Khánh Hòa và đóng thùng xốp đá khô toàn quốc."
+    },
+    {
+      "id": "hop-qua-tang-hoang-gia",
+      "name": "Hộp Quà VIP Yến Sào Hoàng Gia Huvatra",
+      "category": "Quà Tặng VIP",
+      "price": 5200000,
+      "originalPrice": 5800000,
+      "weight": "100g Yến VIP + Bộ phụ liệu Thượng Phẩm",
+      "rating": 5.0,
+      "reviews": 73,
+      "badge": "Quà Biếu VIP",
+      "description": "Hộp gỗ sơn mài đen dát vàng dập nổi biểu tượng chim yến, lót lụa sa tanh vàng ánh kim. Bao gồm 100g yến rút lông đặc biệt, saffron cao cấp, nấm đông trùng và thố chưng mạ vàng.",
+      "includes": "Túi xách cao cấp, thiệp chúc mừng thiết kế riêng, hóa đơn bảo hành chính hãng Huvatra."
+    }
+  ],
+  "dosageGuide": {
+    "tre-em": {
+      "label": "Trẻ em (1 - 3 tuổi)",
+      "dosage": "1 - 1.5g yến khô/lần",
+      "frequency": "2 - 3 lần/tuần (cách ngày)",
+      "benefits": "Tăng cường miễn dịch, kích thích tiêu hóa, bổ sung canxi và lysine giúp xương chắc khỏe và tăng trưởng chiều cao.",
+      "recommended": "Yến Chưng Tươi Hạt Sen hoặc Yến Tinh Chế chưng mềm."
+    },
+    "tre-lon": {
+      "label": "Trẻ em (4 - 10 tuổi)",
+      "dosage": "2 - 3g yến khô/lần",
+      "frequency": "3 lần/tuần",
+      "benefits": "Cung cấp năng lượng phát triển trí não, tăng cường trí nhớ mùa thi cử, giảm ốm vặt khi thay đổi thời tiết.",
+      "recommended": "Yến Tinh Chế Thượng Hạng VIP 1."
+    },
+    "ba-bau": {
+      "label": "Mẹ bầu (Từ tháng thứ 3 trở đi)",
+      "dosage": "3 - 5g yến khô/lần",
+      "frequency": "Cách ngày 1 lần",
+      "benefits": "Giúp thai nhi phát triển não bộ toàn diện, mẹ tái tạo collagen giảm rạn da, tăng sức đề kháng, giảm căng thẳng thai kỳ.",
+      "recommended": "Yến Tinh Chế VIP 1 chưng táo đỏ kỷ tử đường phèn thanh mát."
+    },
+    "nguoi-lon": {
+      "label": "Người trưởng thành & Lao động trí óc",
+      "dosage": "3 - 5g yến khô/lần",
+      "frequency": "2 - 3 lần/tuần",
+      "benefits": "Phục hồi năng lượng nhanh, giải tỏa căng thẳng stress, bồi bổ chức năng gan phổi, chống lão hóa da.",
+      "recommended": "Set Yến Chưng Saffron & Đông Trùng hoặc Yến Rút Lông."
+    },
+    "nguoi-cao-tuoi": {
+      "label": "Người lớn tuổi & Người dưỡng bệnh",
+      "dosage": "3 - 4g yến khô/lần",
+      "frequency": "Hàng ngày hoặc cách ngày",
+      "benefits": "Bồi bổ khí huyết, ổn định huyết áp, tăng cường chức năng tim mạch và hô hấp, giúp ăn ngon ngủ sâu giấc.",
+      "recommended": "Yến Rút Lông Khô Nguyên Tổ hoặc Yến Chưng Đông Trùng Hạ Thảo."
+    }
+  },
+  "cookingGuide": {
+    "steps": [
+      "Bước 1: Ngâm yến tinh chế trong nước lọc sạch ở nhiệt độ phòng khoảng 20-30 phút cho nở mềm tơi (yến thô cần ngâm 60 phút và nhặt sạch lông).",
+      "Bước 2: Dùng rây vớt yến ra để ráo nước, cho vào thố chưng sứ có nắp đậy.",
+      "Bước 3: Đổ nước lọc sạch ngập mặt yến (khoảng 300-350ml cho 1 tổ 10g). Đặt thố vào nồi chưng cách thủy.",
+      "Bước 4: Bật lửa vừa, đun sôi rồi hạ nhỏ lửa chưng cách thủy từ 20 đến 25 phút. Không chưng lửa lớn quá lâu làm mất chất vi lượng quý.",
+      "Bước 5: Cho thêm đường phèn, táo đỏ, hạt sen đã hấp chín, vài lát gừng tươi thái mỏng vào chưng thêm 5 phút rồi tắt bếp và thưởng thức khi còn ấm hoặc để ngăn mát tủ lạnh."
+    ],
+    "bestTime": "Thời điểm vàng ăn yến: Buổi sáng sớm khi vừa thức dậy bụng còn đói (trước ăn sáng 30 phút) hoặc buổi tối trước khi đi ngủ 45 phút để cơ thể hấp thu trọn vẹn 100% dưỡng chất."
+  }
+}
